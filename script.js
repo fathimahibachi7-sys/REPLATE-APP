@@ -1,1 +1,3 @@
-console.log("RePlate App Loaded");
+function donateFood() {
+  alert("Redirecting to donation form...");
+}

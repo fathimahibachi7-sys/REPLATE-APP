@@ -1,3 +1,3 @@
-function donateFood() {
-  alert("Redirecting to donation form...");
+function submitForm() {
+  alert("Form submitted successfully!");
 }
